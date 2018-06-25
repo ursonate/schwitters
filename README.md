@@ -15,3 +15,6 @@ it's a whole new world
 oh, hello world
 
 I think that would be healthy for us all.
+
+if we fed it into a convolutional neural network
+it's been a long, long time since i've made a change
