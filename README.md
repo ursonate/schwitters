@@ -6,7 +6,7 @@ so this really strange thing happened
 i started poking around on github
 not really knowing what i was doing
 I'm sure other products do some things differently.
-But is the plumbing all the same?
+taking this away.
 
 
 
